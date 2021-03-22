@@ -1,4 +1,5 @@
-# prueba-nombre= str(input("dime tu nombre:" ))
+# prueba
+nombre= str(input("dime tu nombre:" ))
 print("mucho gusto, hoy vamos a sacar el promedio de las 5 calificaciones")
 print("introduce las calificaciones ")
 calif1= input("introduce la primera: ")
